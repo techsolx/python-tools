@@ -1,4 +1,4 @@
 black
+bpython
 pre-commit
-whios
-
+python-whois

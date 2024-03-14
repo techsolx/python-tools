@@ -1,0 +1,32 @@
+from bs4 import BeautifulSoup
+from censys.search import CensysHosts
+from collections import Counter
+from exif import Image
+from fierce import fierce
+from flask import Flask, jsonify, request
+from googlesearch import search
+from icmplib import traceroute
+from nslookup import Nslookup
+from pagodo.pagodo import Pagodo
+from psutil import net_connections
+from pycrtsh import Crtsh
+from pyrcrack import AirodumpNg, AirmonNg
+from pythonping import ping
+from rich.console import Console
+from shodan import Shodan
+from sympy import Q
+
+dnspython
+ipinfo
+kismet_rest
+python3-nmap
+psutil
+pydig
+pypdf
+pyptables
+pyshark
+requests
+spacy
+tailer
+python-whois
+zipfile
